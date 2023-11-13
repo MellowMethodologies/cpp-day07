@@ -1,11 +1,5 @@
 #include "iter.hpp"
 
-template <typename T>
-void fun(T element) {
-    std::cout << element << " ";
-}
-
-
 int main()
 {
     std::string arr[5] = {"aaa","asd","asda","asda","sad"};
